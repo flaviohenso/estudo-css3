@@ -132,7 +132,7 @@
     float: right;
 }
 
-#conteudo3 {
+#conteudo3 { 
     margin: 20px 0 0 0;
     background-color: slategrey;
     width: 250px;
@@ -146,10 +146,6 @@
     position: absolute;
     left: 0;
     top: 40px;
-}
-
-#boder-id {
-
 }
 
 #exemplo-texto {
